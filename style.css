@@ -1,0 +1,141 @@
+*{
+ background-color: yellow;
+ 
+}
+#main{
+ 
+ color: black;
+}
+
+#header{
+    border-style: dashed;
+    border-width: 3px;
+    height: 100vh
+ 
+}
+#title{
+    text-align: center;
+    font: normal 20pt Times sans-serif  ;
+    position: relative;
+    width: 100%;
+    
+}
+.titulo{
+    display: inline-block;
+}
+.titulo ul{
+    width: 40px;
+    
+}
+#menu{
+    position: absolute;
+    left: 120px;
+    
+}
+#menu li a{
+text-decoration: none;
+color: black;
+
+}
+#menu li{
+ display: inline-block;
+ margin: 5px 5px;
+ border-style: dotted;
+ color: black;
+ background-color:white;
+ 
+
+ 
+}
+.imghomer{
+    border-radius: 100px;
+    background-color: black;
+
+}
+#lista{
+    position: absolute;
+    left: 5px;
+    display: inline-block;
+       
+}
+h1{
+    font: normal 40pt arial sans-serif ;
+    color:whitesmoke;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    
+
+}
+#homer{
+    position: absolute;
+    right: 5px;
+}
+
+
+#img-div{
+    text-align: center;
+}
+#t_texto{
+    font: bold italic 25pt Arial ;
+    text-align: center;
+    border-style: dashed;
+    background-color: black;
+    
+
+}
+.texto{
+    font: bold 20pt Arial;
+    color:white;
+    
+}
+.texto p{
+    background-color: black;
+    padding: 8px;
+    text-align: justify;
+    border-color: white;
+    border-style: solid;
+}
+.sombreado {
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  }
+#ttit{
+    text-align: center;
+    font: bolder 25pt Arial Sans-serif ;
+    border-style: dashed;
+    width: 10%;
+    margin: 0 auto;
+    
+}
+.linha{
+    text-align: center;
+    font: normal 20pt Arial sans-serif ;
+    
+}
+#futer{
+    font: normal 15px arial sans-serif;
+    
+    
+}
+#img2{
+    position: absolute;
+     right: 10px;
+     bottom: 10px;
+
+}
+#img3{
+    position: absolute;
+    bottom: 35px;
+   
+}
+
+.link{
+    position: absolute;
+    bottom: 0px;
+    text-decoration: none;
+    margin-left: 15px;
+    color: black;
+}
+
+
+
+
